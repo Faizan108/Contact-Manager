@@ -1,0 +1,10 @@
+.head{
+    width:100%;
+    text-align: center;
+    border:0px solid rgb(223, 193, 193);
+    height:100%;
+    background-color: #651c71;
+}
+.menu{
+    height:40px;
+}

@@ -1,0 +1,17 @@
+.hov:hover{
+    cursor: pointer;
+}
+.content{
+    height:45px;
+    margin-top:10px;
+    /* width:100%; */
+}
+.header{
+    font-size: 20px;
+    padding-bottom: 4px;
+}
+/* .item1{
+    display: grid;
+    grid-template-columns:5% 85% 10%;
+    border:1px solid black;
+} */

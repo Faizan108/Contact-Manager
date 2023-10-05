@@ -1,0 +1,15 @@
+.main{
+    /* height:90%; */
+    position: absolute;
+    top:55px;
+    width:75%;
+    /* box-shadow: -7px -5px 8px 3px #9038ac; */
+    border:0px solid #9038ac;
+}
+.main h2{
+    color:brown;
+}
+.back{
+    position: absolute;
+    left:43%;
+}

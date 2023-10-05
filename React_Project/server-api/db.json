@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "08ad76f4-ace0-490a-a8fa-39c5cb84a34b",
+      "name": "Faizan",
+      "email": "Faizan@123"
+    },
+    {
+      "id": "5db4f2a7-66f6-4407-bc93-26fa4dadaa2a",
+      "name": "Sania ",
+      "email": "Sania@123"
+    },
+    {
+      "id": "c966bf54-eaea-4201-8a63-c466fbbc2909",
+      "name": "Rihan",
+      "email": "Rihan@123"
+    },
+    {
+      "id": "65f8b808-f7dd-4f72-bd64-381595335d8c",
+      "name": "Anam",
+      "email": "Anam@123"
+    }
+  ]
+}
